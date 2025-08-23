@@ -1,0 +1,11 @@
+@import 'tailwindcss';
+@import 'primeicons/primeicons.css';
+
+@theme {
+  --color-zinc-880: #1c1c1f;
+}
+
+body {
+  @apply bg-white;
+  @apply text-zinc-800;
+}
