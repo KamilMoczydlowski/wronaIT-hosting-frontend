@@ -1,6 +1,6 @@
 # Nuxt Minimal Starter
 
-APPLICATION STATUS: WORK IN PROGRESS
+APP STATUS: WORK IN PROGRESS
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
